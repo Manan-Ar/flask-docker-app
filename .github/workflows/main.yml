@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: vikrambhathal/flask:latest
+          tags: mananar/flask:latest
